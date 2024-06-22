@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":false,"name":"家","order":3,"parentId":0,"scrollX":589.8181818181819,"scrollY":379.27272727272725},
+{"id":2,"expanded":false,"name":"MAP002","order":1,"parentId":0,"scrollX":595.6363636363636,"scrollY":319.27272727272725},
+{"id":3,"expanded":false,"name":"集市","order":18,"parentId":0,"scrollX":589.8181818181819,"scrollY":313.09090909090907},
+{"id":4,"expanded":false,"name":"家（中秋节）","order":4,"parentId":0,"scrollX":589.8181818181819,"scrollY":351.6363636363636},
+{"id":5,"expanded":false,"name":"2过场","order":10,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":6,"expanded":true,"name":"民居 2","order":2,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":7,"expanded":false,"name":"集市过场","order":9,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":8,"expanded":true,"name":"家（弄丢粮票）","order":5,"parentId":0,"scrollX":589.8181818181819,"scrollY":348},
+{"id":9,"expanded":false,"name":"居委会","order":6,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":10,"expanded":false,"name":"家门口","order":7,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":11,"expanded":false,"name":"家（回家）","order":11,"parentId":0,"scrollX":589.8181818181819,"scrollY":641.0909090909091},
+{"id":12,"expanded":false,"name":"第三幕过场","order":8,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":13,"expanded":false,"name":"家（结婚）","order":12,"parentId":0,"scrollX":589.8181818181819,"scrollY":584.3636363636364},
+{"id":14,"expanded":false,"name":"结婚酒席","order":13,"parentId":0,"scrollX":589.8181818181819,"scrollY":401.09090909090907},
+{"id":15,"expanded":false,"name":"婚房","order":14,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":16,"expanded":false,"name":"第四幕过场","order":15,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093},
+{"id":17,"expanded":false,"name":"家（回家）","order":16,"parentId":0,"scrollX":589.8181818181819,"scrollY":582.9090909090909},
+{"id":18,"expanded":true,"name":"民居 2（回家）","order":17,"parentId":0,"scrollX":595.6363636363636,"scrollY":318.90909090909093}
+]
